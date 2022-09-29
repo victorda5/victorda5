@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Víctor Davó
-- 👀 I’m interested in design and development of web applications
-- 🌱 I’m currently learning Java, mysql
+Javascrip, php, mysqul
